@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\rajkl\\\\Documents\\\\Projects\\\\Multi-Tenant_Job_Search_Application\")",
+      "Bash(docker-compose ps:*)",
+      "Bash(docker-compose down:*)",
+      "Bash(docker-compose logs:*)",
+      "Bash(docker-compose restart:*)",
+      "Bash(docker-compose exec:*)",
+      "Bash(docker-compose up:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git reset:*)",
+      "Bash(git rm:*)",
+      "Bash(set GIT_AUTHOR_DATE=2026-02-01T10:00:00)",
+      "Bash(set GIT_COMMITTER_DATE=2026-02-01T10:00:00)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
