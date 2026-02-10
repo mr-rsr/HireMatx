@@ -14,7 +14,8 @@
       "Bash(git rm:*)",
       "Bash(set GIT_AUTHOR_DATE=2026-02-01T10:00:00)",
       "Bash(set GIT_COMMITTER_DATE=2026-02-01T10:00:00)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
